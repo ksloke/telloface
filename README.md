@@ -1,0 +1,1 @@
+Simple tello drone with face detection using haar cascade. It detects the face and tries to follow it. Uses the tellopy library
